@@ -1,1 +1,1 @@
-https://en.wikipedia.org/wiki/Johannes_Gutenberg
+char array to bcc bruce c compile string from a file
