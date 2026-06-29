@@ -1,2 +1,2 @@
-view all .class files objects
+view all .jbin files objects
 
